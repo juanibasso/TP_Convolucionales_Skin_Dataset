@@ -1,0 +1,25 @@
+# Dataset (no se sube)
+data/
+*.zip
+
+# Modelos entrenados (no se suben)
+*.pt
+*.pth
+*.ckpt
+*.h5
+models/
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

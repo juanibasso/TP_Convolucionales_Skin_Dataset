@@ -1,0 +1,10 @@
+# Dependencias del TP4 (el notebook se corrió con Python 3.13 y torch 2.11.0).
+# Para fijar las versiones exactas de tu entorno, ejecutá en Kaggle:  !pip freeze | grep -iE "torch|numpy|pandas|matplotlib|pillow|scikit-learn|ipython|notebook"
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+pillow>=10.0
+scikit-learn>=1.3
+ipython>=8.0
+notebook>=7.0
