@@ -28,8 +28,8 @@ Se necesita la carpeta `data/Split_smol`, con `train/` y `val/`, y una subcarpet
 
 ### 2. Opción B: local
 ```bash
-git clone https://github.com/cselmo/CNN-en-Skin-Dataset.git
-cd CNN-en-Skin-Dataset
+git clone https://github.com/juanibasso/TP_Convolucionales_Skin_Dataset.git
+cd TP_Convolucionales_Skin_Dataset
 python -m venv .venv
 source .venv/bin/activate        # en Windows: .venv\Scripts\activate
 pip install -r requirements.txt
